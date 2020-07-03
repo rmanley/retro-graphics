@@ -21,3 +21,6 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.60132, 19.6405, -3.52296 )
 
 [node name="DirectionalLight" type="DirectionalLight" parent="."]
 transform = Transform( 1, 0, 0, 0, 0.761866, 0.647734, 0, -0.647734, 0.761866, 0, 0, 0 )
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 1, 0, 0, 0, 0.958914, 0.283697, 0, -0.283697, 0.958914, 0, 28.3406, 11.7874 )
